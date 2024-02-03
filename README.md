@@ -57,8 +57,16 @@ Your primary task is to fix the `App.tsx` file by implementing the data fetching
 
 ## Submission
 
-After completing the assignment, submit your solution by pushing the changes to your forked repository.
+After completing the assignment, submit your solution:
+1. Push the changes to your forked repository.
+2. Add [pws236369](https://github.com/pws236369) as collaborator.
+3. Webcourse - On the class website you will find an assignment item called “Workshop 1”. Upload a plain text (workshop1.txt) file with the following:
+   - URL of your private GitHub repo, with permission to the course user.
+   - ID and name.
 
-Add [pws236369](https://github.com/pws236369) as collaborator.
+- Submission Deadline - 06.02.24 at 23:50
+- Submitting after the deadline wouldn’t be possible.
+- Submission in **singles** only.
+
 
 Good luck!
