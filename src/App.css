@@ -1,0 +1,23 @@
+.app-container {
+    margin: 10vmin;
+}   
+
+.title-container {
+    margin-bottom: 20px;
+}
+
+.search-bar-container {
+    margin-bottom: 20px;
+}
+
+.comments-container {
+    display: flex;
+    justify-content: center;
+}
+
+.comments-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+  
