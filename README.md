@@ -55,6 +55,22 @@ Your primary task is to fix the `App.tsx` file by implementing the data fetching
 3. **Error Handling:**
    - Implement error handling to display an error state if there is an issue with the network or data fetching.
 
+## Simulate Loading + Error
+
+### Simulate Error State
+1. Open DevTools.
+2. Navigate to the "Network" tab.
+3. In the top-left corner of the DevTools, find the "No throttling" dropdown.
+4. Select "Offline" from the dropdown to simulate a network error.
+
+### Simulate Loading State
+1. Open DevTools.
+2. Navigate to the "Network" tab.
+3. In the top-left corner of the DevTools, find the "No throttling" dropdown.
+4. Select "Slow 3G" from the dropdown to simulate a network error.
+
+Remember to set the network conditions back to "No throttling" or "Online" to return to normal behavior.
+
 ## Submission
 
 After completing the assignment, submit your solution:
