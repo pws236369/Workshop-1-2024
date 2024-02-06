@@ -10,13 +10,9 @@ The goal is to fetch data, handle loading states, and manage errors in the appli
 
 To start with the assignment, follow these steps:
 
-1. **Fork the Repository:**
-   - Fork this repository to your GitHub account.
+1. **Clone the Repository:**
 
-2. **Clone the Repository:**
-   - Clone your forked repository.
-
-3. **Install Dependencies:**
+2. **Install Dependencies:**
    - Install the project dependencies using npm:
      ```bash
      npm install
@@ -74,11 +70,7 @@ Remember to set the network conditions back to "No throttling" or "Online" to re
 ## Submission
 
 After completing the assignment, submit your solution:
-1. Push the changes to your forked repository.
-2. Add [pws236369](https://github.com/pws236369) as collaborator.
-3. Webcourse - On the class website you will find an assignment item called “Workshop 1”. Upload a plain text (workshop1.txt) file with the following:
-   - URL of your private GitHub repo, with permission to the course user.
-   - ID and name.
+Webcourse - On the class website you will find an assignment item called “Workshop 1”. Upload only the App.tsx file.
 
 - Submission Deadline - 06.02.24 at 23:50
 - Submitting after the deadline wouldn’t be possible.
